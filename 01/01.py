@@ -5,5 +5,5 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
-        
+
 print("01")
